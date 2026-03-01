@@ -24,12 +24,36 @@ Focused on clean architecture, smooth UI/UX, and production-ready apps.
 </p>
 
 ---
+### 🌐 Connect With Me
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR-EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ahmed1707hamed-tech">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO-LINK">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+---
 ### 🛠 Tech Stack
 
 #### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Object_Oriented_Programming-blue?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### 🔥 Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
