@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">I'M AHMED HAMED! 👨‍💻📱</h1>
 
-<!--
-**am6888122-lang/am6888122-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Flutter Developer | Mobile Application Specialist</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+Flutter Developer passionate about building modern, scalable, and high-performance mobile applications.  
+Focused on clean architecture, smooth UI/UX, and production-ready apps.
+
+✨ Always building real-world mobile solutions  
+📱 Specialized in Flutter & Firebase  
+🎯 Clean Code • Clean UI • Strong Performance  
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+#### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+#### 🔥 Backend & Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### 🎨 UI / UX
+![Material UI](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+
+#### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmed1707hamed-tech&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed1707hamed-tech&theme=radical"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ahmed1707hamed-tech&theme=radical"/>
+</p>
+
+---
+
+### 💬 Dev Quote
+
+> "Great mobile apps are not just built… they are crafted."
+
+---
+
+### 🚀 Featured Projects
+
+- 📱 Flutter E-Commerce App  
+- 🔐 Flutter + Firebase Authentication System  
+- 📊 Dashboard App with API Integration  
+- 🎯 Smart Graduation Project (Mobile Based System)
+
+---
+
+⭐ If you like my work, consider following me!
