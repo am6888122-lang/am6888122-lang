@@ -67,11 +67,11 @@ Focused on clean architecture, smooth UI/UX, and production-ready apps.
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed1707hamed-tech&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=am6888122-lang&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed1707hamed-tech&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=am6888122-lang&theme=radical"/>
 </p>
 
 ---
@@ -79,14 +79,8 @@ Focused on clean architecture, smooth UI/UX, and production-ready apps.
 ### 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahmed1707hamed-tech&theme=radical"/>
+<img src="https://github-profile-trophy.vercel.app/?username=am6888122-lang&theme=radical"/>
 </p>
-
----
-
-### 💬 Dev Quote
-
-> "Great mobile apps are not just built… they are crafted."
 
 ---
 
