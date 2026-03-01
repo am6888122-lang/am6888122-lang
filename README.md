@@ -24,28 +24,6 @@ Focused on clean architecture, smooth UI/UX, and production-ready apps.
 </p>
 
 ---
-### 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR-EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ahmed1707hamed-tech">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO-LINK">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
----
 ### 🛠 Tech Stack
 
 #### 📱 Mobile Development
