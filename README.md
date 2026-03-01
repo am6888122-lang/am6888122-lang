@@ -50,6 +50,13 @@ Focused on clean architecture, smooth UI/UX, and production-ready apps.
 #### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-0095D5?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-6DB33F?style=for-the-badge)
+![State_Management](https://img.shields.io/badge/State_Management-FF9800?style=for-the-badge)
+
+![Sqflite](https://img.shields.io/badge/Sqflite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Object_Oriented_Programming-blue?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
